@@ -142,7 +142,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 12pt;
+				font-size: 13pt;
 			}
 
 		}
@@ -3791,4 +3791,11 @@ input, select, textarea {
 		}
 		.fab.fa-github, .fab.fa-linkedin-in {
 			font-size: 30px;
+		}
+		.label {
+			border: 1px solid #dddddd;
+			border-radius: 8px;
+			padding: 4px 8px;
+			margin: 4px;
+			display: inline-block;
 		}

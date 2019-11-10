@@ -3799,3 +3799,14 @@ input, select, textarea {
 			margin: 4px;
 			display: inline-block;
 		}
+		.features {
+			flex-wrap: wrap
+		}
+		.project {
+			flex: 0 0 40%;
+			margin: 10px;
+		}
+		.project-third {
+			margin-top: 3em;
+		}
+		
